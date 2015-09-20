@@ -5,8 +5,9 @@
 #
 # Here's an example view class for your controller:
 #
+
 class HellosView
-  def initialize(selector = 'body.controller-hellos', parent = Element)
+  def initialize(selector = 'body', parent = Element)
     @element = parent.find(selector)
     setup
   end

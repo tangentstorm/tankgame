@@ -1,2 +1,9 @@
 <h1>Hello#index</h1>
-<p>Find me in app/views/hello/index.html.erb</p>
+
+<a href="#">click me</a>
+
+<%= opal_tag do %>
+Document.ready? do
+  HellosView.new
+end
+<% end %>
