@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="323.33895"
+     inkscape:cx="217.62649"
      inkscape:cy="655.86387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -622,11 +622,13 @@
       </g>
     </g>
     <circle
-       style="fill:#aaccff;fill-rule:evenodd;stroke:#5599ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3442"
        cx="96.166519"
        cy="500.81891"
-       r="3.5355339" />
+       r="3.5355339"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
