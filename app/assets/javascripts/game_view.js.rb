@@ -129,7 +129,7 @@ class GameState < Phaser::State
 end
 
 
-class HellosView
+class GameView
 
   def initialize(selector = 'body', parent = Element)
     game = Phaser::Game.new width:800, height:600
