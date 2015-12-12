@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sprites.svg">
   <sodipodi:namedview
      id="base"
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="387.4"
-     inkscape:cy="574.33978"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="323.33895"
+     inkscape:cy="655.86387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="720"
-     inkscape:window-x="-5"
-     inkscape:window-y="435"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -183,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -277,7 +277,7 @@
          sodipodi:type="inkscape:offset" />
       <path
          transform="translate(-382.34274,255.06352)"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          sodipodi:ry="5"
          sodipodi:rx="5"
          sodipodi:cy="362.36218"
@@ -293,11 +293,11 @@
          sodipodi:cy="362.36218"
          sodipodi:rx="5"
          sodipodi:ry="5"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          transform="translate(-371.23106,255.06352)" />
       <path
          transform="translate(-353.55339,255.06352)"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          sodipodi:ry="5"
          sodipodi:rx="5"
          sodipodi:cy="362.36218"
@@ -313,11 +313,11 @@
          sodipodi:cy="362.36218"
          sodipodi:rx="5"
          sodipodi:ry="5"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          transform="translate(-342.94679,255.06352)" />
       <path
          transform="translate(-325.26912,255.06352)"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          sodipodi:ry="5"
          sodipodi:rx="5"
          sodipodi:cy="362.36218"
@@ -333,7 +333,7 @@
          sodipodi:cy="362.36218"
          sodipodi:rx="5"
          sodipodi:ry="5"
-         d="m 500,362.36218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         d="m 500,362.36218 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          transform="translate(-316.17775,246.47722)" />
       <path
          sodipodi:nodetypes="sccsss"
@@ -366,9 +366,9 @@
            sodipodi:cy="260.93362"
            sodipodi:rx="20"
            sodipodi:ry="20"
-           d="m 528.57144,260.93362 c 0,11.0457 -8.9543,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 z" />
+           d="m 528.57144,260.93362 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z" />
         <path
-           d="m 528.57144,260.93362 c 0,11.0457 -8.9543,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 z"
+           d="m 528.57144,260.93362 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z"
            sodipodi:ry="20"
            sodipodi:rx="20"
            sodipodi:cy="260.93362"
@@ -386,9 +386,9 @@
            sodipodi:cy="260.93362"
            sodipodi:rx="20"
            sodipodi:ry="20"
-           d="m 528.57144,260.93362 c 0,11.0457 -8.9543,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 z" />
+           d="m 528.57144,260.93362 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z" />
         <path
-           d="m 528.57144,260.93362 c 0,11.0457 -8.9543,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 z"
+           d="m 528.57144,260.93362 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z"
            sodipodi:ry="20"
            sodipodi:rx="20"
            sodipodi:cy="260.93362"
@@ -406,7 +406,7 @@
            sodipodi:cy="260.93362"
            sodipodi:rx="20"
            sodipodi:ry="20"
-           d="m 528.57144,260.93362 c 0,11.0457 -8.9543,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 z" />
+           d="m 528.57144,260.93362 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z" />
       </g>
       <path
          sodipodi:nodetypes="cccccccc"
@@ -621,6 +621,12 @@
            y="472.36218" />
       </g>
     </g>
+    <circle
+       style="fill:#aaccff;fill-rule:evenodd;stroke:#5599ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3442"
+       cx="96.166519"
+       cy="500.81891"
+       r="3.5355339" />
   </g>
   <g
      inkscape:groupmode="layer"
